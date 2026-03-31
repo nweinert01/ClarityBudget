@@ -68,13 +68,17 @@ High-level flow:
 
 
 [RAW_TRANSACTIONS]
+
         ↓
 [CLEAN_TRANSACTIONS]
         ↓
+        
 [DIM TABLES] → [FACT_TRANSACTIONS]
         ↓
+        
      [METRICS]
         ↓
+        
     [DASHBOARD]
 
 Each tab has one clear responsibility, and data flows in one direction only to ensure accuracy and scalability.
