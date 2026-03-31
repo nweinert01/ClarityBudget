@@ -6,8 +6,8 @@ Version: v1.0
 Built by: Nichole Weinert
 Tools: Google Sheets (Advanced Formulas, Power Query) + Python (optional extension)
 
-**Project Summary
-**
+**Project Summary**
+
 This project is a fully automated personal finance system built using clean data modeling principles. This workbook transforms raw bank transactions into categorized, analytics‑ready data and produces year‑end insights through dynamic dashboards. Designed to mirror real analytics pipelines, it demonstrates skills in data transformation, modeling, automation, and user‑centered reporting. This public version uses mock data to protect privacy while showcasing the full workflow
 ---
 
