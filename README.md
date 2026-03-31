@@ -64,22 +64,19 @@ Most people were never taught how to manage money in a practical, empowering way
 
 This workbook is structured like a mini data analytics system, not a traditional spreadsheet.
 
-High-level flow:
 
+**High-level flow:**
 
-[RAW_TRANSACTIONS]
-
-        ↓
-[CLEAN_TRANSACTIONS]
-        ↓
+RAW_TRANSACTIONS
         
-[DIM TABLES] → [FACT_TRANSACTIONS]
-        ↓
+CLEAN_TRANSACTIONS
         
-     [METRICS]
-        ↓
-        
-    [DASHBOARD]
+DIM TABLES  -> FACT_TRANSACTIONS
 
+METRICS
+
+DASHBOARD
+
+    
 Each tab has one clear responsibility, and data flows in one direction only to ensure accuracy and scalability.
 
